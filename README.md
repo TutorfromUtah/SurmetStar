@@ -15,3 +15,5 @@ coomt
 hg jj lkj
 gesg
 ```{название-языка}<пробел>{блок кода}```
+! [here some picture] (../images/Introduction.png)
+
